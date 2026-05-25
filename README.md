@@ -73,12 +73,12 @@ Full Stack Developer • Backend Engineering • Cloud • AI Applications
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
-<div align="center">
+<p align="center">
   <img
+    width="84%"
     src="https://github-profile-trophy.vercel.app/?username=blitz-003&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&rank=AA,A,B"
   />
-</div>
-
+</p>
 ---
 
 <h2 align="center">📈 Contribution Activity</h2>
