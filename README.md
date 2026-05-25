@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elman Pathan</h1>
 
 <h3 align="center">
-Full Stack Developer • Backend Engineering • Cloud • AI Applications
+Full Stack Developer • Cloud • AI Agents
 </h3>
 
 <p align="center">
