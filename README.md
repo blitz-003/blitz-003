@@ -16,33 +16,22 @@ Full Stack Developer • Backend Engineering • Cloud • AI Applications
 
 <p align="center">
   <a href="https://blitz-003.github.io/portfolio/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/blitz-003">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/elman-pathan">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:elmanpathan@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -86,26 +75,6 @@ Full Stack Developer • Backend Engineering • Cloud • AI Applications
 
 <p align="center">
 AI Agent Systems • LangChain • LangGraph • Distributed Systems • Cloud Infrastructure
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=blitz-003&theme=tokyonight&no-frame=true&row=1&column=6"
-  />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=blitz-003&theme=tokyo-night&hide_border=true"
-  />
 </p>
 
 ---
