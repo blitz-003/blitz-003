@@ -1,134 +1,102 @@
-<h1 align="center">Hi 👋, I'm Elman Pathan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# Hi 👋, I'm Elman Pathan
+
+<h3 align="center">
+Full Stack Developer • Backend Engineering • Cloud • AI Applications
+</h3>
 
 <p align="center">
-🌱 Learning <b>LangChain, LangGraph</b> <br/>
-💬 Ask me about <b>React, FastAPI & AWS</b> <br/>
-📫 Reach me: <b>elmanpathan@gmail.com</b>
-</p>
-
-<p align="center">
-<a href="https://github.com/blitz-003">🔗 GitHub Profile</a>
-</p>
-
----
-
-<h3 align="center">🌐 Connect with me</h3>
-
-<p align="center">
-<a href="https://linkedin.com/in/elman-pathan">
-  <img 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    height="40" 
-    width="50"
-  />
-</a>
+  🌱 Currently learning <b>LangChain</b> & <b>LangGraph</b><br/>
+  💬 Ask me about <b>React, FastAPI, AWS, Node.js</b><br/>
+  ⚡ Interested in <b>AI Agents, Distributed Systems & Scalable Backend Architecture</b>
 </p>
 
 ---
 
-<h3 align="center">⚒️ Languages & Tools</h3>
+## 🌐 Portfolio & Links
 
 <p align="center">
-<a href="https://aws.amazon.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-</a>
+  <a href="https://blitz-003.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 
-<a href="https://www.docker.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/>
-</a>
+  <a href="https://github.com/blitz-003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://www.linux.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-</a>
+  <a href="https://linkedin.com/in/elman-pathan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.nginx.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50"/>
-</a>
-
-<a href="https://git-scm.com/">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-</a>
-
-<a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://redux.js.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-</a>
-
-<a href="https://nodejs.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://expressjs.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://www.python.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-</a>
-
-<a href="https://www.djangoproject.com/">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
-</a>
-
-<a href="https://www.postgresql.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://www.rabbitmq.com">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50"/>
-</a>
-
-<a href="https://kafka.apache.org/">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="50"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</a>
-
-<a href="https://www.w3.org/html/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://www.w3schools.com/css/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-</a>
-
-<a href="https://babeljs.io/">
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="50"/>
-</a>
-
-<a href="https://www.figma.com/">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-</a>
+  <a href="mailto:elmanpathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## ⚒️ Tech Stack
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=blitz-003&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=blitz-003&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,vite" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+</p>
+
+### Database & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git" />
+</p>
+
+### Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,babel,vscode" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- AI Agent Systems
+- LangChain & LangGraph
+- Distributed Backend Systems
+- Cloud Infrastructure & DevOps
+- High Performance APIs
+
+---
+
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=blitz-003&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=blitz-003&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blitz-003&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blitz-003&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building scalable systems and intelligent applications."</i>
 </p>
