@@ -93,10 +93,9 @@ Full Stack Developer • Backend Engineering • Cloud • AI Applications
 <h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
-AI Agent Systems • LangChain • LangGraph • Distributed Systems • Cloud Infrastructure
+AI Agent Systems • LangChain • LangGraph
 </p>
 
----
 
 <p align="center">
   <i>"Building scalable systems and intelligent applications."</i>
