@@ -69,15 +69,7 @@ Full Stack Developer • Cloud • AI Agents
   <img src="https://skillicons.dev/icons?i=figma,babel,vscode" />
 </p>
 
----
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=blitz-003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=3&rank=AA,A,B"
-  />
-</p>
 
 
 <h2 align="center">📈 Contribution Activity</h2>
