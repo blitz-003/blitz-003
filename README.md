@@ -72,18 +72,18 @@ Full Stack Developer • Cloud • AI Agents
 
 
 
-<h2 align="center">📈 Contribution Activity</h2>
+<!-- <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=blitz-003&theme=tokyo-night&hide_border=true"
   />
-</p>
+</p> -->
 
 ---
 
 <h2 align="center">🚀 Current Focus</h2>
-<!-- <p>Date: 22/9/2026</p> -->
+
 
 <p align="center">
 AI Agent Systems • LangChain • LangGraph
@@ -93,3 +93,4 @@ AI Agent Systems • LangChain • LangGraph
 <p align="center">
   <i>"Building scalable systems and intelligent applications."</i>
 </p>
+<!-- <p>Date: 22/9/2026</p> -->
