@@ -83,6 +83,7 @@ Full Stack Developer • Cloud • AI Agents
 ---
 
 <h2 align="center">🚀 Current Focus</h2>
+<!-- <p>Date: 22/9/2026</p> -->
 
 <p align="center">
 AI Agent Systems • LangChain • LangGraph
