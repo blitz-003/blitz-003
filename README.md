@@ -25,7 +25,7 @@ Full Stack Developer • Cloud • AI Agents
   </a>
   
 
-  <a href="https://linkedin.com/in/elman-pathan">
+  <a href="https://www.linkedin.com/in/elmanpathan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
