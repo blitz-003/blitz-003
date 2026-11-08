@@ -5,7 +5,7 @@ Full Stack Developer • Cloud • AI Agents
 </h3>
 
 <p align="center">
-  🌱 Currently learning <b>LangChain</b> & <b>LangGraph</b><br/>
+  🌱 Currently focusong on <b>LangChain</b>, <b>LangGraph</b> & <b>LangFuse</b><br/>
   💬 Ask me about <b>React, FastAPI, AWS, Node.js</b><br/>
   ⚡ Interested in <b>AI Agents, Distributed Systems & Scalable Backend Architecture</b>
 </p>
