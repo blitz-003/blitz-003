@@ -10,7 +10,7 @@ Full Stack Developer • Cloud • AI Agents
   ⚡ Interested in <b>AI Agents, Distributed Systems & Scalable Backend Architecture</b>
 </p>
 
----
+
 
 <h2 align="center">🌐 Portfolio & Links</h2>
 
@@ -31,7 +31,6 @@ Full Stack Developer • Cloud • AI Agents
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
